@@ -1,7 +1,11 @@
-# Models Repo
+# 3D Models Repo
 
 These are the source files for my personally created 3D models.
 https://www.thingiverse.com/SirGed 
+
+# Requests
+
+If you would like any of these models in a different format please feel free to request. To request email me at 3dmodelrequest at sirged dot com. 
 
 ## Contributing
 Pull requests are welcome.
