@@ -1,7 +1,9 @@
 # 3D Models Repo
 
 These are the source files for my personally created 3D models.
+Some models may end up on my thingiverse before they make it here. 
 https://www.thingiverse.com/SirGed 
+
 
 # Requests
 
