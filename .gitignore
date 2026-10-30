@@ -1,0 +1,16 @@
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# SolidCraft working files
+*.bak
+.~*.lock
+*.sc.bak
+
+# Slicer output (keep 3mf project files, not sliced gcode)
+*.gcode
+*.gcode.3mf
+
+# Logs
+*.log
